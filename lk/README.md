@@ -5,7 +5,7 @@ lk就是Little Kernel，android lk也是appsboot是Qualcomm平台的bootloader.
 它是类似OS一样的小操作系统.其通常由更底层的模块(secure boot)加载到内存
 运行. 例如我们实验的平台MSM8960是如下方式来加载LK的:
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/README.md
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/README.md
 
 实验平台
 ----------------------------------------

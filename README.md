@@ -18,11 +18,11 @@ arm会通过引脚的电平来判断。
 
 ### S3C2440
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/s3c2440/README.md
+https://github.com/novelinux/arch-arm-samsung-s3c2440/tree/master/README.md
 
 ### MSM8960
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/README.md
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/README.md
 
 作用
 ----------------------------------------
