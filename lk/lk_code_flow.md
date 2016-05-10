@@ -26,4 +26,4 @@ path: lk/arch/arm/crt0.s
 kmain
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/tree/master/bootloader/lk/kernel/main_c/kmain.md
+https://github.com/novelinux/bootloader-lk/tree/master/lk/kernel/main_c/kmain.md

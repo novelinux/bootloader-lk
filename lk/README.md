@@ -29,4 +29,4 @@ https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/README.md
 Code Flow
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/tree/master/bootloader/lk/lk_code_flow.md
+https://github.com/novelinux/bootloader-lk/tree/master/lk/lk_code_flow.md

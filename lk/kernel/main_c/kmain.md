@@ -71,9 +71,9 @@ void kmain(void)
 arch_early_init
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/tree/master/bootloader/lk/arch/arm/arch_c/arch_early_init.md
+https://github.com/novelinux/bootloader-lk/tree/master/lk/arch/arm/arch_c/arch_early_init.md
 
 bootstrap2
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/tree/master/bootloader/lk/kernel/main_c/bootstrap2.md
+https://github.com/novelinux/bootloader-lk/tree/master/lk/kernel/main_c/bootstrap2.md

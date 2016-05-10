@@ -28,4 +28,4 @@ aboot是lk中的一个app,在这里会调用aboot的初始话函数aboot_init.
 aboot_init
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/tree/master/bootloader/lk/apps/aboot/aboot_c/aboot_init.md
+https://github.com/novelinux/bootloader-lk/tree/master/lk/apps/aboot/aboot_c/aboot_init.md

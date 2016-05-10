@@ -37,4 +37,4 @@ DDR内存、网卡、显示屏、nand flash等等的初始化工作，最后还�
 lk
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/blob/master/bootloader/lk/README.md
+https://github.com/novelinux/bootloader-lk/tree/master/lk/README.md

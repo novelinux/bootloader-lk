@@ -76,7 +76,7 @@ void boot_linux(void *kernel, unsigned *tags,
 update_device_tree
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/tree/master/bootloader/lk/apps/aboot/aboot_c/update_device_tree.md
+https://github.com/novelinux/bootloader-lk/tree/master/lk/apps/aboot/aboot_c/update_device_tree.md
 
 如果没有定义设备树atags由函数generate_atags组织.
 
@@ -85,7 +85,7 @@ generate_atags
 
 改函数将boot_img_hdr头部保存的信息提取出来封装成tag作为参数传递给kernel.
 
-https://github.com/leeminghao/doc-linux/tree/master/bootloader/lk/apps/aboot/aboot_c/generate_atags.md
+https://github.com/novelinux/bootloader-lk/tree/master/lk/apps/aboot/aboot_c/generate_atags.md
 
 entry
 ----------------------------------------

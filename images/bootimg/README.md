@@ -4,7 +4,7 @@ bootimg
 header
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/tree/master/bootloader/images/bootimg/boot_img_hdr.md
+https://github.com/novelinux/bootloader-lk/tree/master/images/bootimg/boot_img_hdr.md
 
 mkbootimg
 ----------------------------------------

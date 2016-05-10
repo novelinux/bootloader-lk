@@ -72,7 +72,7 @@ kernel(内核), ramdisk.img(根文件系统)和dt.img(设备树)的集合.
 
 有关bootimg文件描述如下所示:
 
-https://github.com/leeminghao/doc-linux/tree/master/bootloader/images/bootimg/README.md
+https://github.com/novelinux/bootloader-lk/tree/master/images/bootimg/README.md
 
 path: lk/app/aboot/aboot.c
 ```
@@ -298,4 +298,4 @@ unified_boot:
 boot_linux
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/tree/master/bootloader/lk/apps/aboot/aboot_c/boot_linux.md
+https://github.com/novelinux/bootloader-lk/tree/master/lk/apps/aboot/aboot_c/boot_linux.md
