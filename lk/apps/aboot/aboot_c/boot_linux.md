@@ -94,4 +94,4 @@ entry
 
 bootloader会传递2个参数过来，分别是r1=architecture ID, r2=atags pointer.
 
-https://github.com/leeminghao/doc-linux/blob/master/4.x.y/boot/README.md
+https://github.com/novelinux/linux-4.x.y/tree/master/boot/README.md

@@ -52,7 +52,7 @@ RAMDISK_ADDR     := BASE_ADDR+0x01000000
 kernel的生成过程:
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/blob/master/4.x.y/kbuild/zImage.md
+https://github.com/novelinux/linux-4.x.y/tree/master/kbuild/zImage.md
 
 整个过程大致如下:
 
